@@ -1,4 +1,3 @@
-# Salary-classifier
 # Salary Classifier Project
 
 ## Overview
